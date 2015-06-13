@@ -7,6 +7,7 @@ public class CondisionalDataTypes {
 		
 		
 	}
+	//Added by Raj Patel
 	//this is if else statement
 	public static void ifElseExamples(){
 		int no1 = 33;
