@@ -7,6 +7,7 @@ public class CondisionalDataTypes {
 		
 		
 	}
+	//Got it Raj
 	//Added by Raj Patel
 	//this is if else statement
 	public static void ifElseExamples(){
