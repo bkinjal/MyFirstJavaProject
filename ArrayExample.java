@@ -1,8 +1,9 @@
 package com.digitech;
 
 public class ArrayExample {
-	
+	// You need to enter comment
 	public static void main(String[]args){
+
 		arrayStatement();
 	}
 	public static void arrayStatement(){
